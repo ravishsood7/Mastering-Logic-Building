@@ -1,0 +1,4105 @@
+[
+  {
+    "path": "/Document/Page 1/alienware-command-center",
+    "type": "FRAME",
+    "id": "2:4",
+    "fill_colors": [
+      {
+        "r": 0.017450980618596077,
+        "g": 0.0313725508749485,
+        "b": 0.04313725605607033,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": -701.0,
+      "y": -450.0,
+      "width": 1440.0,
+      "height": 1024.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar",
+    "type": "FRAME",
+    "id": "2:5",
+    "bbox": {
+      "x": -701.0,
+      "y": -450.0,
+      "width": 80.0,
+      "height": 1024.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/brand-logo",
+    "type": "FRAME",
+    "id": "2:6",
+    "bbox": {
+      "x": -683.0,
+      "y": -426.0,
+      "width": 44.0,
+      "height": 44.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/brand-logo/Polygon",
+    "type": "REGULAR_POLYGON",
+    "id": "2:7",
+    "fill_colors": [
+      {
+        "r": 0.0,
+        "g": 0.9411764740943909,
+        "b": 1.0,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": -670.0,
+      "y": -413.0,
+      "width": 18.0,
+      "height": 18.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/Rectangle",
+    "type": "RECTANGLE",
+    "id": "2:8",
+    "fill_colors": [
+      {
+        "r": 0.12156862765550613,
+        "g": 0.16078431904315948,
+        "b": 0.21568627655506134,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": -681.0,
+      "y": -358.0,
+      "width": 40.0,
+      "height": 1.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/nav-links",
+    "type": "FRAME",
+    "id": "2:9",
+    "bbox": {
+      "x": -701.0,
+      "y": -333.0,
+      "width": 80.0,
+      "height": 653.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/nav-links/nav-item-home",
+    "type": "FRAME",
+    "id": "2:10",
+    "fill_colors": [
+      {
+        "r": 0.0,
+        "g": 0.9411764740943909,
+        "b": 1.0,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": -701.0,
+      "y": -333.0,
+      "width": 80.0,
+      "height": 83.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/nav-links/nav-item-home/icon-wrapper",
+    "type": "FRAME",
+    "id": "2:11",
+    "bbox": {
+      "x": -681.0,
+      "y": -321.0,
+      "width": 40.0,
+      "height": 40.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/nav-links/nav-item-home/icon-wrapper/layout-dashboard",
+    "type": "FRAME",
+    "id": "2:296",
+    "bbox": {
+      "x": -671.0,
+      "y": -311.0,
+      "width": 20.0,
+      "height": 20.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/nav-links/nav-item-home/icon-wrapper/layout-dashboard/Vector",
+    "type": "VECTOR",
+    "id": "2:297",
+    "bbox": {
+      "x": -668.5,
+      "y": -308.5,
+      "width": 15.0,
+      "height": 15.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/nav-links/nav-item-home/nav-label",
+    "type": "TEXT",
+    "id": "2:13",
+    "fill_colors": [
+      {
+        "r": 0.0,
+        "g": 0.9411764740943909,
+        "b": 1.0,
+        "a": 1.0
+      }
+    ],
+    "text": "Home",
+    "bbox": {
+      "x": -676.0,
+      "y": -275.0,
+      "width": 30.0,
+      "height": 13.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/nav-links/nav-item-library",
+    "type": "FRAME",
+    "id": "2:14",
+    "bbox": {
+      "x": -701.0,
+      "y": -238.0,
+      "width": 80.0,
+      "height": 83.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/nav-links/nav-item-library/icon-wrapper",
+    "type": "FRAME",
+    "id": "2:15",
+    "bbox": {
+      "x": -681.0,
+      "y": -226.0,
+      "width": 40.0,
+      "height": 40.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/nav-links/nav-item-library/icon-wrapper/gamepad",
+    "type": "FRAME",
+    "id": "2:302",
+    "bbox": {
+      "x": -671.0,
+      "y": -216.0,
+      "width": 20.0,
+      "height": 20.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/nav-links/nav-item-library/icon-wrapper/gamepad/Vector",
+    "type": "VECTOR",
+    "id": "2:303",
+    "bbox": {
+      "x": -669.333984375,
+      "y": -211.0,
+      "width": 16.667999267578125,
+      "height": 10.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/nav-links/nav-item-library/nav-label",
+    "type": "TEXT",
+    "id": "2:17",
+    "fill_colors": [
+      {
+        "r": 0.29411765933036804,
+        "g": 0.3333333432674408,
+        "b": 0.38823530077934265,
+        "a": 1.0
+      }
+    ],
+    "text": "Library",
+    "bbox": {
+      "x": -681.5,
+      "y": -180.0,
+      "width": 41.0,
+      "height": 13.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/nav-links/nav-item-overclock",
+    "type": "FRAME",
+    "id": "2:18",
+    "bbox": {
+      "x": -701.0,
+      "y": -143.0,
+      "width": 80.0,
+      "height": 83.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/nav-links/nav-item-overclock/icon-wrapper",
+    "type": "FRAME",
+    "id": "2:19",
+    "bbox": {
+      "x": -681.0,
+      "y": -131.0,
+      "width": 40.0,
+      "height": 40.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/nav-links/nav-item-overclock/icon-wrapper/gauge",
+    "type": "FRAME",
+    "id": "2:293",
+    "bbox": {
+      "x": -671.0,
+      "y": -121.0,
+      "width": 20.0,
+      "height": 20.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/nav-links/nav-item-overclock/icon-wrapper/gauge/Vector",
+    "type": "VECTOR",
+    "id": "2:294",
+    "bbox": {
+      "x": -669.333984375,
+      "y": -117.66600036621094,
+      "width": 16.667999267578125,
+      "height": 12.5
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/nav-links/nav-item-overclock/nav-label",
+    "type": "TEXT",
+    "id": "2:21",
+    "fill_colors": [
+      {
+        "r": 0.29411765933036804,
+        "g": 0.3333333432674408,
+        "b": 0.38823530077934265,
+        "a": 1.0
+      }
+    ],
+    "text": "Overclock",
+    "bbox": {
+      "x": -691.5,
+      "y": -85.0,
+      "width": 61.0,
+      "height": 13.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/nav-links/nav-item-thermal",
+    "type": "FRAME",
+    "id": "2:22",
+    "bbox": {
+      "x": -701.0,
+      "y": -48.0,
+      "width": 80.0,
+      "height": 83.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/nav-links/nav-item-thermal/icon-wrapper",
+    "type": "FRAME",
+    "id": "2:23",
+    "bbox": {
+      "x": -681.0,
+      "y": -36.0,
+      "width": 40.0,
+      "height": 40.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/nav-links/nav-item-thermal/icon-wrapper/fan",
+    "type": "FRAME",
+    "id": "2:278",
+    "bbox": {
+      "x": -671.0,
+      "y": -26.0,
+      "width": 20.0,
+      "height": 20.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/nav-links/nav-item-thermal/icon-wrapper/fan/Vector",
+    "type": "VECTOR",
+    "id": "2:279",
+    "bbox": {
+      "x": -669.3319702148438,
+      "y": -24.332000732421875,
+      "width": 16.663557052612305,
+      "height": 16.663557052612305
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/nav-links/nav-item-thermal/nav-label",
+    "type": "TEXT",
+    "id": "2:25",
+    "fill_colors": [
+      {
+        "r": 0.29411765933036804,
+        "g": 0.3333333432674408,
+        "b": 0.38823530077934265,
+        "a": 1.0
+      }
+    ],
+    "text": "Thermal",
+    "bbox": {
+      "x": -684.5,
+      "y": 10.0,
+      "width": 47.0,
+      "height": 13.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/nav-links/nav-item-fx light",
+    "type": "FRAME",
+    "id": "2:26",
+    "bbox": {
+      "x": -701.0,
+      "y": 47.0,
+      "width": 80.0,
+      "height": 83.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/nav-links/nav-item-fx light/icon-wrapper",
+    "type": "FRAME",
+    "id": "2:27",
+    "bbox": {
+      "x": -681.0,
+      "y": 59.0,
+      "width": 40.0,
+      "height": 40.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/nav-links/nav-item-fx light/icon-wrapper/lightbulb",
+    "type": "FRAME",
+    "id": "2:290",
+    "bbox": {
+      "x": -671.0,
+      "y": 69.0,
+      "width": 20.0,
+      "height": 20.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/nav-links/nav-item-fx light/icon-wrapper/lightbulb/Vector",
+    "type": "VECTOR",
+    "id": "2:291",
+    "bbox": {
+      "x": -666.0,
+      "y": 70.66600036621094,
+      "width": 10.0,
+      "height": 16.667999267578125
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/nav-links/nav-item-fx light/nav-label",
+    "type": "TEXT",
+    "id": "2:29",
+    "fill_colors": [
+      {
+        "r": 0.29411765933036804,
+        "g": 0.3333333432674408,
+        "b": 0.38823530077934265,
+        "a": 1.0
+      }
+    ],
+    "text": "FX Light",
+    "bbox": {
+      "x": -683.5,
+      "y": 105.0,
+      "width": 45.0,
+      "height": 13.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/nav-links/nav-item-audio",
+    "type": "FRAME",
+    "id": "2:30",
+    "bbox": {
+      "x": -701.0,
+      "y": 142.0,
+      "width": 80.0,
+      "height": 83.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/nav-links/nav-item-audio/icon-wrapper",
+    "type": "FRAME",
+    "id": "2:31",
+    "bbox": {
+      "x": -681.0,
+      "y": 154.0,
+      "width": 40.0,
+      "height": 40.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/nav-links/nav-item-audio/icon-wrapper/audio-waveform",
+    "type": "FRAME",
+    "id": "2:287",
+    "bbox": {
+      "x": -671.0,
+      "y": 164.0,
+      "width": 20.0,
+      "height": 20.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/nav-links/nav-item-audio/icon-wrapper/audio-waveform/Vector",
+    "type": "VECTOR",
+    "id": "2:288",
+    "bbox": {
+      "x": -669.333984375,
+      "y": 165.66600036621094,
+      "width": 16.667999267578125,
+      "height": 16.667999267578125
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/nav-links/nav-item-audio/nav-label",
+    "type": "TEXT",
+    "id": "2:33",
+    "fill_colors": [
+      {
+        "r": 0.29411765933036804,
+        "g": 0.3333333432674408,
+        "b": 0.38823530077934265,
+        "a": 1.0
+      }
+    ],
+    "text": "Audio",
+    "bbox": {
+      "x": -677.5,
+      "y": 200.0,
+      "width": 33.0,
+      "height": 13.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/nav-links/nav-item-fusion",
+    "type": "FRAME",
+    "id": "2:34",
+    "bbox": {
+      "x": -701.0,
+      "y": 237.0,
+      "width": 80.0,
+      "height": 83.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/nav-links/nav-item-fusion/icon-wrapper",
+    "type": "FRAME",
+    "id": "2:35",
+    "bbox": {
+      "x": -681.0,
+      "y": 249.0,
+      "width": 40.0,
+      "height": 40.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/nav-links/nav-item-fusion/icon-wrapper/atom",
+    "type": "FRAME",
+    "id": "2:284",
+    "bbox": {
+      "x": -671.0,
+      "y": 259.0,
+      "width": 20.0,
+      "height": 20.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/nav-links/nav-item-fusion/icon-wrapper/atom/Vector",
+    "type": "VECTOR",
+    "id": "2:285",
+    "bbox": {
+      "x": -668.4959716796875,
+      "y": 261.5039978027344,
+      "width": 14.992486953735352,
+      "height": 14.992486953735352
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/nav-links/nav-item-fusion/nav-label",
+    "type": "TEXT",
+    "id": "2:37",
+    "fill_colors": [
+      {
+        "r": 0.29411765933036804,
+        "g": 0.3333333432674408,
+        "b": 0.38823530077934265,
+        "a": 1.0
+      }
+    ],
+    "text": "Fusion",
+    "bbox": {
+      "x": -679.5,
+      "y": 295.0,
+      "width": 37.0,
+      "height": 13.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/sidebar-bottom",
+    "type": "FRAME",
+    "id": "2:38",
+    "bbox": {
+      "x": -701.0,
+      "y": 344.0,
+      "width": 80.0,
+      "height": 206.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/sidebar-bottom/nav-item-settings",
+    "type": "FRAME",
+    "id": "2:39",
+    "bbox": {
+      "x": -701.0,
+      "y": 344.0,
+      "width": 80.0,
+      "height": 83.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/sidebar-bottom/nav-item-settings/icon-wrapper",
+    "type": "FRAME",
+    "id": "2:40",
+    "bbox": {
+      "x": -681.0,
+      "y": 356.0,
+      "width": 40.0,
+      "height": 40.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/sidebar-bottom/nav-item-settings/icon-wrapper/settings",
+    "type": "FRAME",
+    "id": "2:299",
+    "bbox": {
+      "x": -671.0,
+      "y": 366.0,
+      "width": 20.0,
+      "height": 20.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/sidebar-bottom/nav-item-settings/icon-wrapper/settings/Vector",
+    "type": "VECTOR",
+    "id": "2:300",
+    "bbox": {
+      "x": -668.4639892578125,
+      "y": 367.6820068359375,
+      "width": 14.927266120910645,
+      "height": 16.63678741455078
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/sidebar/sidebar-bottom/nav-item-settings/nav-label",
+    "type": "TEXT",
+    "id": "2:42",
+    "fill_colors": [
+      {
+        "r": 0.29411765933036804,
+        "g": 0.3333333432674408,
+        "b": 0.38823530077934265,
+        "a": 1.0
+      }
+    ],
+    "text": "Settings",
+    "bbox": {
+      "x": -685.0,
+      "y": 402.0,
+      "width": 48.0,
+      "height": 13.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace",
+    "type": "FRAME",
+    "id": "2:43",
+    "bbox": {
+      "x": -621.0,
+      "y": -450.0,
+      "width": 1360.0,
+      "height": 1024.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hud-header",
+    "type": "FRAME",
+    "id": "2:44",
+    "bbox": {
+      "x": -589.0,
+      "y": -426.0,
+      "width": 1296.0,
+      "height": 60.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hud-header/Frame",
+    "type": "FRAME",
+    "id": "2:45",
+    "bbox": {
+      "x": -589.0,
+      "y": -426.0,
+      "width": 298.0,
+      "height": 44.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hud-header/Frame/M16 R2 // COMMAND_CENTER",
+    "type": "TEXT",
+    "id": "2:46",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    ],
+    "text": "M16 R2 // COMMAND_CENTER",
+    "bbox": {
+      "x": -589.0,
+      "y": -426.0,
+      "width": 288.0,
+      "height": 25.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hud-header/Frame/Frame",
+    "type": "FRAME",
+    "id": "2:47",
+    "bbox": {
+      "x": -589.0,
+      "y": -397.0,
+      "width": 298.0,
+      "height": 15.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hud-header/Frame/Frame/Ellipse",
+    "type": "ELLIPSE",
+    "id": "2:48",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 0.800000011920929,
+        "b": 0.0,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": -589.0,
+      "y": -392.5,
+      "width": 6.0,
+      "height": 6.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hud-header/Frame/Frame/SYSTEM_STATE: ONLINE // PROFILE: CYBER_NOIR",
+    "type": "TEXT",
+    "id": "2:49",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 0.800000011920929,
+        "b": 0.0,
+        "a": 1.0
+      }
+    ],
+    "text": "SYSTEM_STATE: ONLINE // PROFILE: CYBER_NOIR",
+    "bbox": {
+      "x": -575.0,
+      "y": -397.0,
+      "width": 284.0,
+      "height": 15.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hud-header/Frame",
+    "type": "FRAME",
+    "id": "2:50",
+    "bbox": {
+      "x": 577.0,
+      "y": -422.0,
+      "width": 130.0,
+      "height": 36.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hud-header/Frame/Frame",
+    "type": "FRAME",
+    "id": "2:51",
+    "bbox": {
+      "x": 577.0,
+      "y": -419.5,
+      "width": 78.0,
+      "height": 31.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hud-header/Frame/Frame/12:47:09",
+    "type": "TEXT",
+    "id": "2:52",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    ],
+    "text": "12:47:09",
+    "bbox": {
+      "x": 587.0,
+      "y": -419.5,
+      "width": 68.0,
+      "height": 18.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hud-header/Frame/Frame/LATENCY: 14MS",
+    "type": "TEXT",
+    "id": "2:53",
+    "fill_colors": [
+      {
+        "r": 0.6117647290229797,
+        "g": 0.6392157077789307,
+        "b": 0.686274528503418,
+        "a": 1.0
+      }
+    ],
+    "text": "LATENCY: 14MS",
+    "bbox": {
+      "x": 577.0,
+      "y": -401.5,
+      "width": 78.0,
+      "height": 13.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hud-header/Frame/Frame",
+    "type": "FRAME",
+    "id": "2:54",
+    "bbox": {
+      "x": 671.0,
+      "y": -422.0,
+      "width": 36.0,
+      "height": 36.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hud-header/Frame/Frame/wifi",
+    "type": "FRAME",
+    "id": "2:281",
+    "bbox": {
+      "x": 681.0,
+      "y": -412.0,
+      "width": 16.0,
+      "height": 16.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hud-header/Frame/Frame/wifi/Vector",
+    "type": "VECTOR",
+    "id": "2:282",
+    "bbox": {
+      "x": 682.3328247070312,
+      "y": -408.6672058105469,
+      "width": 13.334400177001953,
+      "height": 10.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges",
+    "type": "FRAME",
+    "id": "2:56",
+    "bbox": {
+      "x": -589.0,
+      "y": -342.0,
+      "width": 1296.0,
+      "height": 168.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/section-header",
+    "type": "FRAME",
+    "id": "2:57",
+    "bbox": {
+      "x": -589.0,
+      "y": -342.0,
+      "width": 1296.0,
+      "height": 34.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/section-header/Frame",
+    "type": "FRAME",
+    "id": "2:58",
+    "bbox": {
+      "x": -589.0,
+      "y": -342.0,
+      "width": 228.0,
+      "height": 34.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/section-header/Frame/Frame",
+    "type": "FRAME",
+    "id": "2:59",
+    "bbox": {
+      "x": -589.0,
+      "y": -342.0,
+      "width": 228.0,
+      "height": 18.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/section-header/Frame/Frame/Frame",
+    "type": "FRAME",
+    "id": "2:60",
+    "bbox": {
+      "x": -589.0,
+      "y": -336.0,
+      "width": 6.0,
+      "height": 6.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/section-header/Frame/Frame/Real-Time Engine Telemetry",
+    "type": "TEXT",
+    "id": "2:61",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 0.800000011920929,
+        "b": 0.0,
+        "a": 1.0
+      }
+    ],
+    "text": "Real-Time Engine Telemetry",
+    "bbox": {
+      "x": -575.0,
+      "y": -342.0,
+      "width": 214.0,
+      "height": 18.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/section-header/Frame/Live CPU, GPU, & Active Airflow tracking status",
+    "type": "TEXT",
+    "id": "2:62",
+    "fill_colors": [
+      {
+        "r": 0.6117647290229797,
+        "g": 0.6392157077789307,
+        "b": 0.686274528503418,
+        "a": 1.0
+      }
+    ],
+    "text": "Live CPU, GPU, & Active Airflow tracking status",
+    "bbox": {
+      "x": -589.0,
+      "y": -322.0,
+      "width": 228.0,
+      "height": 14.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/section-header/Frame",
+    "type": "FRAME",
+    "id": "2:63",
+    "bbox": {
+      "x": 667.0,
+      "y": -327.0,
+      "width": 40.0,
+      "height": 4.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/section-header/Frame/Rectangle",
+    "type": "RECTANGLE",
+    "id": "2:64",
+    "fill_colors": [
+      {
+        "r": 0.12156862765550613,
+        "g": 0.16078431904315948,
+        "b": 0.21568627655506134,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": 667.0,
+      "y": -325.5,
+      "width": 32.0,
+      "height": 1.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/section-header/Frame/Rectangle",
+    "type": "RECTANGLE",
+    "id": "2:65",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 0.800000011920929,
+        "b": 0.0,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": 703.0,
+      "y": -327.0,
+      "width": 4.0,
+      "height": 4.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/Frame",
+    "type": "FRAME",
+    "id": "2:66",
+    "bbox": {
+      "x": -589.0,
+      "y": -296.0,
+      "width": 1296.0,
+      "height": 122.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/Frame/gauge-cpu core stress",
+    "type": "FRAME",
+    "id": "2:67",
+    "fill_colors": [
+      {
+        "r": 0.062745101749897,
+        "g": 0.0784313753247261,
+        "b": 0.11372549086809158,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": -589.0,
+      "y": -296.0,
+      "width": 421.3333435058594,
+      "height": 122.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/Frame/gauge-cpu core stress/gauge-graphic",
+    "type": "FRAME",
+    "id": "2:68",
+    "bbox": {
+      "x": -573.0,
+      "y": -280.0,
+      "width": 90.0,
+      "height": 90.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/Frame/gauge-cpu core stress/gauge-graphic/gauge-track",
+    "type": "ELLIPSE",
+    "id": "2:69",
+    "fill_colors": [
+      {
+        "r": 0.06666667014360428,
+        "g": 0.0941176488995552,
+        "b": 0.15294118225574493,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": -570.0,
+      "y": -277.0,
+      "width": 84.0,
+      "height": 84.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/Frame/gauge-cpu core stress/gauge-graphic/gauge-fill",
+    "type": "ELLIPSE",
+    "id": "2:70",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 0.23137255012989044,
+        "b": 0.1882352977991104,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": -570.0,
+      "y": -277.0,
+      "width": 84.0,
+      "height": 84.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/Frame/gauge-cpu core stress/gauge-graphic/Ellipse",
+    "type": "ELLIPSE",
+    "id": "2:71",
+    "bbox": {
+      "x": -560.0,
+      "y": -267.0,
+      "width": 64.0,
+      "height": 64.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/Frame/gauge-cpu core stress/gauge-graphic/Frame",
+    "type": "FRAME",
+    "id": "2:72",
+    "bbox": {
+      "x": -538.0,
+      "y": -251.0,
+      "width": 20.0,
+      "height": 32.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/Frame/gauge-cpu core stress/gauge-graphic/Frame/87",
+    "type": "TEXT",
+    "id": "2:73",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    ],
+    "text": "87",
+    "bbox": {
+      "x": -538.0,
+      "y": -251.0,
+      "width": 20.0,
+      "height": 21.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/Frame/gauge-cpu core stress/gauge-graphic/Frame/%",
+    "type": "TEXT",
+    "id": "2:74",
+    "fill_colors": [
+      {
+        "r": 0.6117647290229797,
+        "g": 0.6392157077789307,
+        "b": 0.686274528503418,
+        "a": 1.0
+      }
+    ],
+    "text": "%",
+    "bbox": {
+      "x": -531.5,
+      "y": -230.0,
+      "width": 7.0,
+      "height": 11.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/Frame/gauge-cpu core stress/Frame",
+    "type": "FRAME",
+    "id": "2:75",
+    "bbox": {
+      "x": -467.0,
+      "y": -280.0,
+      "width": 283.3333435058594,
+      "height": 90.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/Frame/gauge-cpu core stress/Frame/CPU core stress",
+    "type": "TEXT",
+    "id": "2:76",
+    "fill_colors": [
+      {
+        "r": 0.6117647290229797,
+        "g": 0.6392157077789307,
+        "b": 0.686274528503418,
+        "a": 1.0
+      }
+    ],
+    "text": "CPU core stress",
+    "bbox": {
+      "x": -467.0,
+      "y": -268.5,
+      "width": 96.0,
+      "height": 14.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/Frame/gauge-cpu core stress/Frame/4.82 GHz",
+    "type": "TEXT",
+    "id": "2:77",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 0.23137255012989044,
+        "b": 0.1882352977991104,
+        "a": 1.0
+      }
+    ],
+    "text": "4.82 GHz",
+    "bbox": {
+      "x": -467.0,
+      "y": -248.5,
+      "width": 96.0,
+      "height": 26.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/Frame/gauge-cpu core stress/Frame/T-Core Temp: 84\u00b0C",
+    "type": "TEXT",
+    "id": "2:78",
+    "fill_colors": [
+      {
+        "r": 0.29411765933036804,
+        "g": 0.3333333432674408,
+        "b": 0.38823530077934265,
+        "a": 1.0
+      }
+    ],
+    "text": "T-Core Temp: 84\u00b0C",
+    "bbox": {
+      "x": -467.0,
+      "y": -216.5,
+      "width": 113.0,
+      "height": 15.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/Frame/gauge-gpu memory workload",
+    "type": "FRAME",
+    "id": "2:79",
+    "fill_colors": [
+      {
+        "r": 0.062745101749897,
+        "g": 0.0784313753247261,
+        "b": 0.11372549086809158,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": -151.66665649414062,
+      "y": -296.0,
+      "width": 421.33331298828125,
+      "height": 122.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/Frame/gauge-gpu memory workload/gauge-graphic",
+    "type": "FRAME",
+    "id": "2:80",
+    "bbox": {
+      "x": -135.66665649414062,
+      "y": -280.0,
+      "width": 90.0,
+      "height": 90.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/Frame/gauge-gpu memory workload/gauge-graphic/gauge-track",
+    "type": "ELLIPSE",
+    "id": "2:81",
+    "fill_colors": [
+      {
+        "r": 0.06666667014360428,
+        "g": 0.0941176488995552,
+        "b": 0.15294118225574493,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": -132.66665649414062,
+      "y": -277.0,
+      "width": 84.0,
+      "height": 84.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/Frame/gauge-gpu memory workload/gauge-graphic/gauge-fill",
+    "type": "ELLIPSE",
+    "id": "2:82",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 0.800000011920929,
+        "b": 0.0,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": -132.66665649414062,
+      "y": -277.0,
+      "width": 84.0,
+      "height": 84.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/Frame/gauge-gpu memory workload/gauge-graphic/Ellipse",
+    "type": "ELLIPSE",
+    "id": "2:83",
+    "bbox": {
+      "x": -122.66665649414062,
+      "y": -267.0,
+      "width": 64.0,
+      "height": 64.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/Frame/gauge-gpu memory workload/gauge-graphic/Frame",
+    "type": "FRAME",
+    "id": "2:84",
+    "bbox": {
+      "x": -100.66665649414062,
+      "y": -251.0,
+      "width": 20.0,
+      "height": 32.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/Frame/gauge-gpu memory workload/gauge-graphic/Frame/72",
+    "type": "TEXT",
+    "id": "2:85",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    ],
+    "text": "72",
+    "bbox": {
+      "x": -100.66665649414062,
+      "y": -251.0,
+      "width": 20.0,
+      "height": 21.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/Frame/gauge-gpu memory workload/gauge-graphic/Frame/%",
+    "type": "TEXT",
+    "id": "2:86",
+    "fill_colors": [
+      {
+        "r": 0.6117647290229797,
+        "g": 0.6392157077789307,
+        "b": 0.686274528503418,
+        "a": 1.0
+      }
+    ],
+    "text": "%",
+    "bbox": {
+      "x": -94.16665649414062,
+      "y": -230.0,
+      "width": 7.0,
+      "height": 11.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/Frame/gauge-gpu memory workload/Frame",
+    "type": "FRAME",
+    "id": "2:87",
+    "bbox": {
+      "x": -29.666656494140625,
+      "y": -280.0,
+      "width": 283.33331298828125,
+      "height": 90.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/Frame/gauge-gpu memory workload/Frame/GPU memory workload",
+    "type": "TEXT",
+    "id": "2:88",
+    "fill_colors": [
+      {
+        "r": 0.6117647290229797,
+        "g": 0.6392157077789307,
+        "b": 0.686274528503418,
+        "a": 1.0
+      }
+    ],
+    "text": "GPU memory workload",
+    "bbox": {
+      "x": -29.666656494140625,
+      "y": -268.5,
+      "width": 141.0,
+      "height": 14.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/Frame/gauge-gpu memory workload/Frame/2.15 GHz",
+    "type": "TEXT",
+    "id": "2:89",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    ],
+    "text": "2.15 GHz",
+    "bbox": {
+      "x": -29.666656494140625,
+      "y": -248.5,
+      "width": 96.0,
+      "height": 26.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/Frame/gauge-gpu memory workload/Frame/Die Temp: 74\u00b0C",
+    "type": "TEXT",
+    "id": "2:90",
+    "fill_colors": [
+      {
+        "r": 0.29411765933036804,
+        "g": 0.3333333432674408,
+        "b": 0.38823530077934265,
+        "a": 1.0
+      }
+    ],
+    "text": "Die Temp: 74\u00b0C",
+    "bbox": {
+      "x": -29.666656494140625,
+      "y": -216.5,
+      "width": 93.0,
+      "height": 15.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/Frame/gauge-active exhaust velocity",
+    "type": "FRAME",
+    "id": "2:91",
+    "fill_colors": [
+      {
+        "r": 0.062745101749897,
+        "g": 0.0784313753247261,
+        "b": 0.11372549086809158,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": 285.6666259765625,
+      "y": -296.0,
+      "width": 421.33331298828125,
+      "height": 122.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/Frame/gauge-active exhaust velocity/gauge-graphic",
+    "type": "FRAME",
+    "id": "2:92",
+    "bbox": {
+      "x": 301.6666259765625,
+      "y": -280.0,
+      "width": 90.0,
+      "height": 90.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/Frame/gauge-active exhaust velocity/gauge-graphic/gauge-track",
+    "type": "ELLIPSE",
+    "id": "2:93",
+    "fill_colors": [
+      {
+        "r": 0.06666667014360428,
+        "g": 0.0941176488995552,
+        "b": 0.15294118225574493,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": 304.6666259765625,
+      "y": -277.0,
+      "width": 84.0,
+      "height": 84.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/Frame/gauge-active exhaust velocity/gauge-graphic/gauge-fill",
+    "type": "ELLIPSE",
+    "id": "2:94",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 0.800000011920929,
+        "b": 0.0,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": 304.6666259765625,
+      "y": -277.0,
+      "width": 84.0,
+      "height": 84.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/Frame/gauge-active exhaust velocity/gauge-graphic/Ellipse",
+    "type": "ELLIPSE",
+    "id": "2:95",
+    "bbox": {
+      "x": 314.6666259765625,
+      "y": -267.0,
+      "width": 64.0,
+      "height": 64.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/Frame/gauge-active exhaust velocity/gauge-graphic/Frame",
+    "type": "FRAME",
+    "id": "2:96",
+    "bbox": {
+      "x": 336.6666259765625,
+      "y": -251.0,
+      "width": 20.0,
+      "height": 32.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/Frame/gauge-active exhaust velocity/gauge-graphic/Frame/92",
+    "type": "TEXT",
+    "id": "2:97",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    ],
+    "text": "92",
+    "bbox": {
+      "x": 336.6666259765625,
+      "y": -251.0,
+      "width": 20.0,
+      "height": 21.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/Frame/gauge-active exhaust velocity/gauge-graphic/Frame/%",
+    "type": "TEXT",
+    "id": "2:98",
+    "fill_colors": [
+      {
+        "r": 0.6117647290229797,
+        "g": 0.6392157077789307,
+        "b": 0.686274528503418,
+        "a": 1.0
+      }
+    ],
+    "text": "%",
+    "bbox": {
+      "x": 343.1666259765625,
+      "y": -230.0,
+      "width": 7.0,
+      "height": 11.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/Frame/gauge-active exhaust velocity/Frame",
+    "type": "FRAME",
+    "id": "2:99",
+    "bbox": {
+      "x": 407.6666259765625,
+      "y": -280.0,
+      "width": 283.33331298828125,
+      "height": 90.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/Frame/gauge-active exhaust velocity/Frame/Active exhaust velocity",
+    "type": "TEXT",
+    "id": "2:100",
+    "fill_colors": [
+      {
+        "r": 0.6117647290229797,
+        "g": 0.6392157077789307,
+        "b": 0.686274528503418,
+        "a": 1.0
+      }
+    ],
+    "text": "Active exhaust velocity",
+    "bbox": {
+      "x": 407.6666259765625,
+      "y": -268.5,
+      "width": 150.0,
+      "height": 14.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/Frame/gauge-active exhaust velocity/Frame/4,500 RPM",
+    "type": "TEXT",
+    "id": "2:101",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    ],
+    "text": "4,500 RPM",
+    "bbox": {
+      "x": 407.6666259765625,
+      "y": -248.5,
+      "width": 108.0,
+      "height": 26.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/hero-gauges/Frame/gauge-active exhaust velocity/Frame/Static flow rate: 64 CFM",
+    "type": "TEXT",
+    "id": "2:102",
+    "fill_colors": [
+      {
+        "r": 0.29411765933036804,
+        "g": 0.3333333432674408,
+        "b": 0.38823530077934265,
+        "a": 1.0
+      }
+    ],
+    "text": "Static flow rate: 64 CFM",
+    "bbox": {
+      "x": 407.6666259765625,
+      "y": -216.5,
+      "width": 159.0,
+      "height": 15.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1",
+    "type": "FRAME",
+    "id": "2:103",
+    "bbox": {
+      "x": -589.0,
+      "y": -150.0,
+      "width": 1296.0,
+      "height": 374.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section",
+    "type": "FRAME",
+    "id": "2:104",
+    "bbox": {
+      "x": -589.0,
+      "y": -150.0,
+      "width": 615.0,
+      "height": 374.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/section-header",
+    "type": "FRAME",
+    "id": "2:105",
+    "bbox": {
+      "x": -589.0,
+      "y": -150.0,
+      "width": 615.0,
+      "height": 34.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/section-header/Frame",
+    "type": "FRAME",
+    "id": "2:106",
+    "bbox": {
+      "x": -589.0,
+      "y": -150.0,
+      "width": 214.0,
+      "height": 34.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/section-header/Frame/Frame",
+    "type": "FRAME",
+    "id": "2:107",
+    "bbox": {
+      "x": -589.0,
+      "y": -150.0,
+      "width": 170.0,
+      "height": 18.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/section-header/Frame/Frame/Frame",
+    "type": "FRAME",
+    "id": "2:108",
+    "bbox": {
+      "x": -589.0,
+      "y": -144.0,
+      "width": 6.0,
+      "height": 6.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/section-header/Frame/Frame/Telemetry Timelines",
+    "type": "TEXT",
+    "id": "2:109",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 0.800000011920929,
+        "b": 0.0,
+        "a": 1.0
+      }
+    ],
+    "text": "Telemetry Timelines",
+    "bbox": {
+      "x": -575.0,
+      "y": -150.0,
+      "width": 156.0,
+      "height": 18.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/section-header/Frame/Recent workload patterns & memory buffers",
+    "type": "TEXT",
+    "id": "2:110",
+    "fill_colors": [
+      {
+        "r": 0.6117647290229797,
+        "g": 0.6392157077789307,
+        "b": 0.686274528503418,
+        "a": 1.0
+      }
+    ],
+    "text": "Recent workload patterns & memory buffers",
+    "bbox": {
+      "x": -589.0,
+      "y": -130.0,
+      "width": 214.0,
+      "height": 14.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/section-header/Frame",
+    "type": "FRAME",
+    "id": "2:111",
+    "bbox": {
+      "x": -14.0,
+      "y": -135.0,
+      "width": 40.0,
+      "height": 4.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/section-header/Frame/Rectangle",
+    "type": "RECTANGLE",
+    "id": "2:112",
+    "fill_colors": [
+      {
+        "r": 0.12156862765550613,
+        "g": 0.16078431904315948,
+        "b": 0.21568627655506134,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": -14.0,
+      "y": -133.5,
+      "width": 32.0,
+      "height": 1.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/section-header/Frame/Rectangle",
+    "type": "RECTANGLE",
+    "id": "2:113",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 0.800000011920929,
+        "b": 0.0,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": 22.0,
+      "y": -135.0,
+      "width": 4.0,
+      "height": 4.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame",
+    "type": "FRAME",
+    "id": "2:114",
+    "bbox": {
+      "x": -589.0,
+      "y": -100.0,
+      "width": 615.0,
+      "height": 155.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame",
+    "type": "FRAME",
+    "id": "2:115",
+    "fill_colors": [
+      {
+        "r": 0.062745101749897,
+        "g": 0.0784313753247261,
+        "b": 0.11372549086809158,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": -589.0,
+      "y": -100.0,
+      "width": 301.5,
+      "height": 155.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/Frame",
+    "type": "FRAME",
+    "id": "2:116",
+    "bbox": {
+      "x": -573.0,
+      "y": -84.0,
+      "width": 269.5,
+      "height": 17.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/Frame/CPU Usage",
+    "type": "TEXT",
+    "id": "2:117",
+    "fill_colors": [
+      {
+        "r": 0.6117647290229797,
+        "g": 0.6392157077789307,
+        "b": 0.686274528503418,
+        "a": 1.0
+      }
+    ],
+    "text": "CPU Usage",
+    "bbox": {
+      "x": -573.0,
+      "y": -83.0,
+      "width": 66.0,
+      "height": 15.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/Frame/Frame",
+    "type": "FRAME",
+    "id": "2:118",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 0.23137255012989044,
+        "b": 0.1882352977991104,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": -400.5,
+      "y": -84.0,
+      "width": 97.0,
+      "height": 17.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/Frame/Frame/LIMIT OVERFLOW",
+    "type": "TEXT",
+    "id": "2:119",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 0.23137255012989044,
+        "b": 0.1882352977991104,
+        "a": 1.0
+      }
+    ],
+    "text": "LIMIT OVERFLOW",
+    "bbox": {
+      "x": -394.5,
+      "y": -82.0,
+      "width": 85.0,
+      "height": 13.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/Frame",
+    "type": "FRAME",
+    "id": "2:120",
+    "bbox": {
+      "x": -573.0,
+      "y": -55.0,
+      "width": 41.0,
+      "height": 32.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/Frame/87",
+    "type": "TEXT",
+    "id": "2:121",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 0.23137255012989044,
+        "b": 0.1882352977991104,
+        "a": 1.0
+      }
+    ],
+    "text": "87",
+    "bbox": {
+      "x": -573.0,
+      "y": -55.0,
+      "width": 29.0,
+      "height": 32.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/Frame/%",
+    "type": "TEXT",
+    "id": "2:122",
+    "fill_colors": [
+      {
+        "r": 0.6117647290229797,
+        "g": 0.6392157077789307,
+        "b": 0.686274528503418,
+        "a": 1.0
+      }
+    ],
+    "text": "%",
+    "bbox": {
+      "x": -540.0,
+      "y": -42.0,
+      "width": 8.0,
+      "height": 15.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart",
+    "type": "FRAME",
+    "id": "2:123",
+    "bbox": {
+      "x": -573.0,
+      "y": -11.0,
+      "width": 260.0,
+      "height": 50.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Frame",
+    "type": "FRAME",
+    "id": "2:124",
+    "bbox": {
+      "x": -573.0,
+      "y": -11.0,
+      "width": 260.0,
+      "height": 50.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Frame/Line",
+    "type": "LINE",
+    "id": "2:125",
+    "bbox": {
+      "x": -573.0,
+      "y": -11.0,
+      "width": 260.0,
+      "height": 0.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Frame/Line",
+    "type": "LINE",
+    "id": "2:126",
+    "bbox": {
+      "x": -573.0,
+      "y": 14.0,
+      "width": 260.0,
+      "height": 0.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Frame/Line",
+    "type": "LINE",
+    "id": "2:127",
+    "bbox": {
+      "x": -573.0,
+      "y": 39.0,
+      "width": 260.0,
+      "height": 0.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Line",
+    "type": "LINE",
+    "id": "2:128",
+    "bbox": {
+      "x": -573.0,
+      "y": 11.001356790805744,
+      "width": 36.995191054234056,
+      "height": 7.998643209194256
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Line",
+    "type": "LINE",
+    "id": "2:129",
+    "bbox": {
+      "x": -536.0,
+      "y": 11.0,
+      "width": 36.996820498645775,
+      "height": 5.998804233121234
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Line",
+    "type": "LINE",
+    "id": "2:130",
+    "bbox": {
+      "x": -499.0,
+      "y": -1.000235566121546,
+      "width": 37.00425147849546,
+      "height": 18.000235566121546
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Line",
+    "type": "LINE",
+    "id": "2:131",
+    "bbox": {
+      "x": -462.0,
+      "y": -3.9974939801343226,
+      "width": 38.00197017772916,
+      "height": 2.9974939801343226
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Line",
+    "type": "LINE",
+    "id": "2:132",
+    "bbox": {
+      "x": -424.0,
+      "y": -4.0,
+      "width": 36.996461904459466,
+      "height": 1.0010948327785485
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Line",
+    "type": "LINE",
+    "id": "2:133",
+    "bbox": {
+      "x": -387.0,
+      "y": -3.0,
+      "width": 36.99834328047814,
+      "height": 3.0028145402887674
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Line",
+    "type": "LINE",
+    "id": "2:134",
+    "bbox": {
+      "x": -350.0,
+      "y": -4.0003612490693286,
+      "width": 37.00439997919602,
+      "height": 4.0003612490693286
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame",
+    "type": "FRAME",
+    "id": "2:135",
+    "fill_colors": [
+      {
+        "r": 0.062745101749897,
+        "g": 0.0784313753247261,
+        "b": 0.11372549086809158,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": -275.5,
+      "y": -100.0,
+      "width": 301.5,
+      "height": 153.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/Frame",
+    "type": "FRAME",
+    "id": "2:136",
+    "bbox": {
+      "x": -259.5,
+      "y": -84.0,
+      "width": 269.5,
+      "height": 15.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/Frame/GPU Load",
+    "type": "TEXT",
+    "id": "2:137",
+    "fill_colors": [
+      {
+        "r": 0.6117647290229797,
+        "g": 0.6392157077789307,
+        "b": 0.686274528503418,
+        "a": 1.0
+      }
+    ],
+    "text": "GPU Load",
+    "bbox": {
+      "x": -259.5,
+      "y": -84.0,
+      "width": 61.0,
+      "height": 15.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/Frame",
+    "type": "FRAME",
+    "id": "2:138",
+    "bbox": {
+      "x": -259.5,
+      "y": -57.0,
+      "width": 41.0,
+      "height": 32.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/Frame/72",
+    "type": "TEXT",
+    "id": "2:139",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 0.800000011920929,
+        "b": 0.0,
+        "a": 1.0
+      }
+    ],
+    "text": "72",
+    "bbox": {
+      "x": -259.5,
+      "y": -57.0,
+      "width": 29.0,
+      "height": 32.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/Frame/%",
+    "type": "TEXT",
+    "id": "2:140",
+    "fill_colors": [
+      {
+        "r": 0.6117647290229797,
+        "g": 0.6392157077789307,
+        "b": 0.686274528503418,
+        "a": 1.0
+      }
+    ],
+    "text": "%",
+    "bbox": {
+      "x": -226.5,
+      "y": -44.0,
+      "width": 8.0,
+      "height": 15.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart",
+    "type": "FRAME",
+    "id": "2:141",
+    "bbox": {
+      "x": -259.5,
+      "y": -13.0,
+      "width": 260.0,
+      "height": 50.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Frame",
+    "type": "FRAME",
+    "id": "2:142",
+    "bbox": {
+      "x": -259.5,
+      "y": -13.0,
+      "width": 260.0,
+      "height": 50.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Frame/Line",
+    "type": "LINE",
+    "id": "2:143",
+    "bbox": {
+      "x": -259.5,
+      "y": -13.0,
+      "width": 260.0,
+      "height": 0.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Frame/Line",
+    "type": "LINE",
+    "id": "2:144",
+    "bbox": {
+      "x": -259.5,
+      "y": 12.0,
+      "width": 260.0,
+      "height": 0.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Frame/Line",
+    "type": "LINE",
+    "id": "2:145",
+    "bbox": {
+      "x": -259.5,
+      "y": 37.0,
+      "width": 260.0,
+      "height": 0.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Line",
+    "type": "LINE",
+    "id": "2:146",
+    "bbox": {
+      "x": -259.5,
+      "y": 5.002836941144054,
+      "width": 36.99613311401663,
+      "height": 1.9971630588559464
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Line",
+    "type": "LINE",
+    "id": "2:147",
+    "bbox": {
+      "x": -222.5,
+      "y": 1.9971854597112326,
+      "width": 36.99834328047814,
+      "height": 3.0028145402887674
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Line",
+    "type": "LINE",
+    "id": "2:148",
+    "bbox": {
+      "x": -185.5,
+      "y": 0.0028369411440536396,
+      "width": 36.99613311401663,
+      "height": 1.9971630588559464
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Line",
+    "type": "LINE",
+    "id": "2:149",
+    "bbox": {
+      "x": -148.5,
+      "y": 0.0,
+      "width": 37.99679909645192,
+      "height": 1.0016174379069511
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Line",
+    "type": "LINE",
+    "id": "2:150",
+    "bbox": {
+      "x": -110.5,
+      "y": 1.0,
+      "width": 37.0,
+      "height": 0.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Line",
+    "type": "LINE",
+    "id": "2:151",
+    "bbox": {
+      "x": -73.5,
+      "y": 1.0,
+      "width": 36.996461904459466,
+      "height": 1.0010948327785485
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Line",
+    "type": "LINE",
+    "id": "2:152",
+    "bbox": {
+      "x": -36.5,
+      "y": 0.9989051672214515,
+      "width": 36.996461904459466,
+      "height": 1.0010948327785485
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame",
+    "type": "FRAME",
+    "id": "2:153",
+    "bbox": {
+      "x": -589.0,
+      "y": 71.0,
+      "width": 615.0,
+      "height": 153.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame",
+    "type": "FRAME",
+    "id": "2:154",
+    "fill_colors": [
+      {
+        "r": 0.062745101749897,
+        "g": 0.0784313753247261,
+        "b": 0.11372549086809158,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": -589.0,
+      "y": 71.0,
+      "width": 301.5,
+      "height": 153.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/Frame",
+    "type": "FRAME",
+    "id": "2:155",
+    "bbox": {
+      "x": -573.0,
+      "y": 87.0,
+      "width": 269.5,
+      "height": 15.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/Frame/DDR5 Allocation",
+    "type": "TEXT",
+    "id": "2:156",
+    "fill_colors": [
+      {
+        "r": 0.6117647290229797,
+        "g": 0.6392157077789307,
+        "b": 0.686274528503418,
+        "a": 1.0
+      }
+    ],
+    "text": "DDR5 Allocation",
+    "bbox": {
+      "x": -573.0,
+      "y": 87.0,
+      "width": 110.0,
+      "height": 15.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/Frame",
+    "type": "FRAME",
+    "id": "2:157",
+    "bbox": {
+      "x": -573.0,
+      "y": 114.0,
+      "width": 102.0,
+      "height": 32.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/Frame/14.2",
+    "type": "TEXT",
+    "id": "2:158",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 0.800000011920929,
+        "b": 0.0,
+        "a": 1.0
+      }
+    ],
+    "text": "14.2",
+    "bbox": {
+      "x": -573.0,
+      "y": 114.0,
+      "width": 58.0,
+      "height": 32.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/Frame/GB / 32",
+    "type": "TEXT",
+    "id": "2:159",
+    "fill_colors": [
+      {
+        "r": 0.6117647290229797,
+        "g": 0.6392157077789307,
+        "b": 0.686274528503418,
+        "a": 1.0
+      }
+    ],
+    "text": "GB / 32",
+    "bbox": {
+      "x": -511.0,
+      "y": 127.0,
+      "width": 40.0,
+      "height": 15.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart",
+    "type": "FRAME",
+    "id": "2:160",
+    "bbox": {
+      "x": -573.0,
+      "y": 158.0,
+      "width": 260.0,
+      "height": 50.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Frame",
+    "type": "FRAME",
+    "id": "2:161",
+    "bbox": {
+      "x": -573.0,
+      "y": 158.0,
+      "width": 260.0,
+      "height": 50.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Frame/Line",
+    "type": "LINE",
+    "id": "2:162",
+    "bbox": {
+      "x": -573.0,
+      "y": 158.0,
+      "width": 260.0,
+      "height": 0.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Frame/Line",
+    "type": "LINE",
+    "id": "2:163",
+    "bbox": {
+      "x": -573.0,
+      "y": 183.0,
+      "width": 260.0,
+      "height": 0.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Frame/Line",
+    "type": "LINE",
+    "id": "2:164",
+    "bbox": {
+      "x": -573.0,
+      "y": 208.0,
+      "width": 260.0,
+      "height": 0.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Line",
+    "type": "LINE",
+    "id": "2:165",
+    "bbox": {
+      "x": -573.0,
+      "y": 187.0,
+      "width": 37.0,
+      "height": 0.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Line",
+    "type": "LINE",
+    "id": "2:166",
+    "bbox": {
+      "x": -536.0,
+      "y": 185.99890516722144,
+      "width": 36.996461904459466,
+      "height": 1.0010948327785627
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Line",
+    "type": "LINE",
+    "id": "2:167",
+    "bbox": {
+      "x": -499.0,
+      "y": 186.0,
+      "width": 37.0,
+      "height": 0.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Line",
+    "type": "LINE",
+    "id": "2:168",
+    "bbox": {
+      "x": -462.0,
+      "y": 186.0,
+      "width": 38.0,
+      "height": 0.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Line",
+    "type": "LINE",
+    "id": "2:169",
+    "bbox": {
+      "x": -424.0,
+      "y": 186.0,
+      "width": 37.0,
+      "height": 0.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Line",
+    "type": "LINE",
+    "id": "2:170",
+    "bbox": {
+      "x": -387.0,
+      "y": 186.0,
+      "width": 37.0,
+      "height": 0.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Line",
+    "type": "LINE",
+    "id": "2:171",
+    "bbox": {
+      "x": -350.0,
+      "y": 186.0,
+      "width": 37.0,
+      "height": 0.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame",
+    "type": "FRAME",
+    "id": "2:172",
+    "fill_colors": [
+      {
+        "r": 0.062745101749897,
+        "g": 0.0784313753247261,
+        "b": 0.11372549086809158,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": -275.5,
+      "y": 71.0,
+      "width": 301.5,
+      "height": 153.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/Frame",
+    "type": "FRAME",
+    "id": "2:173",
+    "bbox": {
+      "x": -259.5,
+      "y": 87.0,
+      "width": 269.5,
+      "height": 15.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/Frame/VRAM Pool",
+    "type": "TEXT",
+    "id": "2:174",
+    "fill_colors": [
+      {
+        "r": 0.6117647290229797,
+        "g": 0.6392157077789307,
+        "b": 0.686274528503418,
+        "a": 1.0
+      }
+    ],
+    "text": "VRAM Pool",
+    "bbox": {
+      "x": -259.5,
+      "y": 87.0,
+      "width": 71.0,
+      "height": 15.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/Frame",
+    "type": "FRAME",
+    "id": "2:175",
+    "bbox": {
+      "x": -259.5,
+      "y": 114.0,
+      "width": 100.0,
+      "height": 32.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/Frame/11.4",
+    "type": "TEXT",
+    "id": "2:176",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 0.800000011920929,
+        "b": 0.0,
+        "a": 1.0
+      }
+    ],
+    "text": "11.4",
+    "bbox": {
+      "x": -259.5,
+      "y": 114.0,
+      "width": 58.0,
+      "height": 32.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/Frame/GB / 16",
+    "type": "TEXT",
+    "id": "2:177",
+    "fill_colors": [
+      {
+        "r": 0.6117647290229797,
+        "g": 0.6392157077789307,
+        "b": 0.686274528503418,
+        "a": 1.0
+      }
+    ],
+    "text": "GB / 16",
+    "bbox": {
+      "x": -197.5,
+      "y": 127.0,
+      "width": 38.0,
+      "height": 15.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart",
+    "type": "FRAME",
+    "id": "2:178",
+    "bbox": {
+      "x": -259.5,
+      "y": 158.0,
+      "width": 260.0,
+      "height": 50.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Frame",
+    "type": "FRAME",
+    "id": "2:179",
+    "bbox": {
+      "x": -259.5,
+      "y": 158.0,
+      "width": 260.0,
+      "height": 50.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Frame/Line",
+    "type": "LINE",
+    "id": "2:180",
+    "bbox": {
+      "x": -259.5,
+      "y": 158.0,
+      "width": 260.0,
+      "height": 0.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Frame/Line",
+    "type": "LINE",
+    "id": "2:181",
+    "bbox": {
+      "x": -259.5,
+      "y": 183.0,
+      "width": 260.0,
+      "height": 0.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Frame/Line",
+    "type": "LINE",
+    "id": "2:182",
+    "bbox": {
+      "x": -259.5,
+      "y": 208.0,
+      "width": 260.0,
+      "height": 0.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Line",
+    "type": "LINE",
+    "id": "2:183",
+    "bbox": {
+      "x": -259.5,
+      "y": 183.00194197553924,
+      "width": 37.00308531826454,
+      "height": 9.99805802446076
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Line",
+    "type": "LINE",
+    "id": "2:184",
+    "bbox": {
+      "x": -222.5,
+      "y": 183.0,
+      "width": 36.996461904459466,
+      "height": 1.0010948327785627
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Line",
+    "type": "LINE",
+    "id": "2:185",
+    "bbox": {
+      "x": -185.5,
+      "y": 177.00133649711285,
+      "width": 37.003976348912374,
+      "height": 6.998663502887155
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Line",
+    "type": "LINE",
+    "id": "2:186",
+    "bbox": {
+      "x": -148.5,
+      "y": 177.0,
+      "width": 37.9975051115548,
+      "height": 1.9980149861272594
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Line",
+    "type": "LINE",
+    "id": "2:187",
+    "bbox": {
+      "x": -110.5,
+      "y": 175.99718545971123,
+      "width": 36.99834328047814,
+      "height": 3.0028145402887674
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Line",
+    "type": "LINE",
+    "id": "2:188",
+    "bbox": {
+      "x": -73.5,
+      "y": 174.00283694114404,
+      "width": 36.99613311401663,
+      "height": 1.9971630588559606
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/performance-section/Frame/Frame/sparkline-chart/Line",
+    "type": "LINE",
+    "id": "2:189",
+    "bbox": {
+      "x": -36.5,
+      "y": 174.0,
+      "width": 37.00439997919602,
+      "height": 4.0003612490693286
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/thermal-panel",
+    "type": "FRAME",
+    "id": "2:190",
+    "fill_colors": [
+      {
+        "r": 0.062745101749897,
+        "g": 0.0784313753247261,
+        "b": 0.11372549086809158,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": 50.0,
+      "y": -150.0,
+      "width": 657.0,
+      "height": 276.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/thermal-panel/section-header",
+    "type": "FRAME",
+    "id": "2:191",
+    "bbox": {
+      "x": 70.0,
+      "y": -130.0,
+      "width": 617.0,
+      "height": 34.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/thermal-panel/section-header/Frame",
+    "type": "FRAME",
+    "id": "2:192",
+    "bbox": {
+      "x": 70.0,
+      "y": -130.0,
+      "width": 208.0,
+      "height": 34.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/thermal-panel/section-header/Frame/Frame",
+    "type": "FRAME",
+    "id": "2:193",
+    "bbox": {
+      "x": 70.0,
+      "y": -130.0,
+      "width": 208.0,
+      "height": 18.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/thermal-panel/section-header/Frame/Frame/Thermal Regulator Editor",
+    "type": "TEXT",
+    "id": "2:194",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 0.800000011920929,
+        "b": 0.0,
+        "a": 1.0
+      }
+    ],
+    "text": "Thermal Regulator Editor",
+    "bbox": {
+      "x": 70.0,
+      "y": -130.0,
+      "width": 208.0,
+      "height": 18.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/thermal-panel/section-header/Frame/Dynamic fan-curve speed adjustments",
+    "type": "TEXT",
+    "id": "2:195",
+    "fill_colors": [
+      {
+        "r": 0.6117647290229797,
+        "g": 0.6392157077789307,
+        "b": 0.686274528503418,
+        "a": 1.0
+      }
+    ],
+    "text": "Dynamic fan-curve speed adjustments",
+    "bbox": {
+      "x": 70.0,
+      "y": -110.0,
+      "width": 188.0,
+      "height": 14.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/thermal-panel/section-header/Frame",
+    "type": "FRAME",
+    "id": "2:196",
+    "bbox": {
+      "x": 647.0,
+      "y": -115.0,
+      "width": 40.0,
+      "height": 4.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/thermal-panel/section-header/Frame/Rectangle",
+    "type": "RECTANGLE",
+    "id": "2:197",
+    "fill_colors": [
+      {
+        "r": 0.12156862765550613,
+        "g": 0.16078431904315948,
+        "b": 0.21568627655506134,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": 647.0,
+      "y": -113.5,
+      "width": 32.0,
+      "height": 1.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/thermal-panel/section-header/Frame/Rectangle",
+    "type": "RECTANGLE",
+    "id": "2:198",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 0.800000011920929,
+        "b": 0.0,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": 683.0,
+      "y": -115.0,
+      "width": 4.0,
+      "height": 4.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/thermal-panel/Frame",
+    "type": "FRAME",
+    "id": "2:199",
+    "bbox": {
+      "x": 70.0,
+      "y": -80.0,
+      "width": 617.0,
+      "height": 30.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/thermal-panel/Frame/Frame",
+    "type": "FRAME",
+    "id": "2:200",
+    "fill_colors": [
+      {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": 70.0,
+      "y": -80.0,
+      "width": 58.0,
+      "height": 30.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/thermal-panel/Frame/Frame/Quiet",
+    "type": "TEXT",
+    "id": "2:201",
+    "fill_colors": [
+      {
+        "r": 0.6117647290229797,
+        "g": 0.6392157077789307,
+        "b": 0.686274528503418,
+        "a": 1.0
+      }
+    ],
+    "text": "Quiet",
+    "bbox": {
+      "x": 82.0,
+      "y": -72.0,
+      "width": 34.0,
+      "height": 14.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/thermal-panel/Frame/Frame",
+    "type": "FRAME",
+    "id": "2:202",
+    "fill_colors": [
+      {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": 136.0,
+      "y": -80.0,
+      "width": 84.0,
+      "height": 30.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/thermal-panel/Frame/Frame/Balanced",
+    "type": "TEXT",
+    "id": "2:203",
+    "fill_colors": [
+      {
+        "r": 0.6117647290229797,
+        "g": 0.6392157077789307,
+        "b": 0.686274528503418,
+        "a": 1.0
+      }
+    ],
+    "text": "Balanced",
+    "bbox": {
+      "x": 148.0,
+      "y": -72.0,
+      "width": 60.0,
+      "height": 14.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/thermal-panel/Frame/Frame",
+    "type": "FRAME",
+    "id": "2:204",
+    "fill_colors": [
+      {
+        "r": 0.0,
+        "g": 0.9411764740943909,
+        "b": 1.0,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": 228.0,
+      "y": -80.0,
+      "width": 107.0,
+      "height": 30.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/thermal-panel/Frame/Frame/Performance",
+    "type": "TEXT",
+    "id": "2:205",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 0.800000011920929,
+        "b": 0.0,
+        "a": 1.0
+      }
+    ],
+    "text": "Performance",
+    "bbox": {
+      "x": 240.0,
+      "y": -72.0,
+      "width": 83.0,
+      "height": 14.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/thermal-panel/Frame/Frame",
+    "type": "FRAME",
+    "id": "2:206",
+    "fill_colors": [
+      {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": 343.0,
+      "y": -80.0,
+      "width": 88.0,
+      "height": 30.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/thermal-panel/Frame/Frame/Full Speed",
+    "type": "TEXT",
+    "id": "2:207",
+    "fill_colors": [
+      {
+        "r": 0.6117647290229797,
+        "g": 0.6392157077789307,
+        "b": 0.686274528503418,
+        "a": 1.0
+      }
+    ],
+    "text": "Full Speed",
+    "bbox": {
+      "x": 355.0,
+      "y": -72.0,
+      "width": 64.0,
+      "height": 14.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/thermal-panel/Frame",
+    "type": "FRAME",
+    "id": "2:208",
+    "fill_colors": [
+      {
+        "r": 0.08627451211214066,
+        "g": 0.10588235408067703,
+        "b": 0.14901961386203766,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": 70.0,
+      "y": -34.0,
+      "width": 617.0,
+      "height": 140.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/thermal-panel/Frame/plot-frame",
+    "type": "FRAME",
+    "id": "2:209",
+    "bbox": {
+      "x": 70.0,
+      "y": -34.0,
+      "width": 280.0,
+      "height": 140.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/thermal-panel/Frame/plot-frame/Line",
+    "type": "LINE",
+    "id": "2:210",
+    "bbox": {
+      "x": 70.0,
+      "y": -14.0,
+      "width": 280.0,
+      "height": 0.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/thermal-panel/Frame/plot-frame/Line",
+    "type": "LINE",
+    "id": "2:211",
+    "bbox": {
+      "x": 70.0,
+      "y": 6.0,
+      "width": 280.0,
+      "height": 0.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/thermal-panel/Frame/plot-frame/Line",
+    "type": "LINE",
+    "id": "2:212",
+    "bbox": {
+      "x": 70.0,
+      "y": 26.0,
+      "width": 280.0,
+      "height": 0.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/thermal-panel/Frame/plot-frame/Line",
+    "type": "LINE",
+    "id": "2:213",
+    "bbox": {
+      "x": 70.0,
+      "y": 46.0,
+      "width": 280.0,
+      "height": 0.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/thermal-panel/Frame/plot-frame/Line",
+    "type": "LINE",
+    "id": "2:214",
+    "bbox": {
+      "x": 70.0,
+      "y": 66.0,
+      "width": 280.0,
+      "height": 0.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/thermal-panel/Frame/plot-frame/Line",
+    "type": "LINE",
+    "id": "2:215",
+    "bbox": {
+      "x": 70.0,
+      "y": 86.0,
+      "width": 280.0,
+      "height": 0.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/thermal-panel/Frame/plot-frame/Line",
+    "type": "LINE",
+    "id": "2:216",
+    "bbox": {
+      "x": 100.0,
+      "y": 66.0018392556592,
+      "width": 49.998966244093026,
+      "height": 19.998160744340794
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/thermal-panel/Frame/plot-frame/Line",
+    "type": "LINE",
+    "id": "2:217",
+    "bbox": {
+      "x": 150.0,
+      "y": 35.995729783727256,
+      "width": 59.99558600638011,
+      "height": 30.004270216272744
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/thermal-panel/Frame/plot-frame/Line",
+    "type": "LINE",
+    "id": "2:218",
+    "bbox": {
+      "x": 210.0,
+      "y": -3.9993626874756956,
+      "width": 59.99919231535205,
+      "height": 39.999362687475696
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/thermal-panel/Frame/plot-frame/Ellipse",
+    "type": "ELLIPSE",
+    "id": "2:219",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 0.800000011920929,
+        "b": 0.0,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": 96.0,
+      "y": 82.0,
+      "width": 8.0,
+      "height": 8.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/thermal-panel/Frame/plot-frame/Ellipse",
+    "type": "ELLIPSE",
+    "id": "2:220",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 0.800000011920929,
+        "b": 0.0,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": 146.0,
+      "y": 62.0,
+      "width": 8.0,
+      "height": 8.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/thermal-panel/Frame/plot-frame/Ellipse",
+    "type": "ELLIPSE",
+    "id": "2:221",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 0.800000011920929,
+        "b": 0.0,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": 206.0,
+      "y": 32.0,
+      "width": 8.0,
+      "height": 8.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/thermal-panel/Frame/plot-frame/Ellipse",
+    "type": "ELLIPSE",
+    "id": "2:222",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 0.800000011920929,
+        "b": 0.0,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": 266.0,
+      "y": -8.0,
+      "width": 8.0,
+      "height": 8.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/thermal-panel/Frame/Frame",
+    "type": "FRAME",
+    "id": "2:223",
+    "bbox": {
+      "x": 70.0,
+      "y": 106.0,
+      "width": 617.0,
+      "height": 21.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/thermal-panel/Frame/Frame/TEMP: 30\u00b0C",
+    "type": "TEXT",
+    "id": "2:224",
+    "fill_colors": [
+      {
+        "r": 0.29411765933036804,
+        "g": 0.3333333432674408,
+        "b": 0.38823530077934265,
+        "a": 1.0
+      }
+    ],
+    "text": "TEMP: 30\u00b0C",
+    "bbox": {
+      "x": 82.0,
+      "y": 106.0,
+      "width": 60.0,
+      "height": 13.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/grid-row-1/thermal-panel/Frame/Frame/90\u00b0C",
+    "type": "TEXT",
+    "id": "2:225",
+    "fill_colors": [
+      {
+        "r": 0.29411765933036804,
+        "g": 0.3333333432674408,
+        "b": 0.38823530077934265,
+        "a": 1.0
+      }
+    ],
+    "text": "90\u00b0C",
+    "bbox": {
+      "x": 651.0,
+      "y": 106.0,
+      "width": 24.0,
+      "height": 13.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row",
+    "type": "FRAME",
+    "id": "2:226",
+    "bbox": {
+      "x": -589.0,
+      "y": 248.0,
+      "width": 1296.0,
+      "height": 230.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame",
+    "type": "FRAME",
+    "id": "2:227",
+    "fill_colors": [
+      {
+        "r": 0.062745101749897,
+        "g": 0.0784313753247261,
+        "b": 0.11372549086809158,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": -589.0,
+      "y": 248.0,
+      "width": 636.0,
+      "height": 230.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/section-header",
+    "type": "FRAME",
+    "id": "2:228",
+    "bbox": {
+      "x": -569.0,
+      "y": 268.0,
+      "width": 596.0,
+      "height": 34.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/section-header/Frame",
+    "type": "FRAME",
+    "id": "2:229",
+    "bbox": {
+      "x": -569.0,
+      "y": 268.0,
+      "width": 246.0,
+      "height": 34.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/section-header/Frame/Frame",
+    "type": "FRAME",
+    "id": "2:230",
+    "bbox": {
+      "x": -569.0,
+      "y": 268.0,
+      "width": 246.0,
+      "height": 18.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/section-header/Frame/Frame/Frame",
+    "type": "FRAME",
+    "id": "2:231",
+    "bbox": {
+      "x": -569.0,
+      "y": 274.0,
+      "width": 6.0,
+      "height": 6.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/section-header/Frame/Frame/AlienFX Chassis Zone Control",
+    "type": "TEXT",
+    "id": "2:232",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 0.800000011920929,
+        "b": 0.0,
+        "a": 1.0
+      }
+    ],
+    "text": "AlienFX Chassis Zone Control",
+    "bbox": {
+      "x": -555.0,
+      "y": 268.0,
+      "width": 232.0,
+      "height": 18.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/section-header/Frame/Per-zone lighting mapping & diagnostics",
+    "type": "TEXT",
+    "id": "2:233",
+    "fill_colors": [
+      {
+        "r": 0.6117647290229797,
+        "g": 0.6392157077789307,
+        "b": 0.686274528503418,
+        "a": 1.0
+      }
+    ],
+    "text": "Per-zone lighting mapping & diagnostics",
+    "bbox": {
+      "x": -569.0,
+      "y": 288.0,
+      "width": 195.0,
+      "height": 14.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/section-header/Frame",
+    "type": "FRAME",
+    "id": "2:234",
+    "bbox": {
+      "x": -13.0,
+      "y": 283.0,
+      "width": 40.0,
+      "height": 4.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/section-header/Frame/Rectangle",
+    "type": "RECTANGLE",
+    "id": "2:235",
+    "fill_colors": [
+      {
+        "r": 0.12156862765550613,
+        "g": 0.16078431904315948,
+        "b": 0.21568627655506134,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": -13.0,
+      "y": 284.5,
+      "width": 32.0,
+      "height": 1.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/section-header/Frame/Rectangle",
+    "type": "RECTANGLE",
+    "id": "2:236",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 0.800000011920929,
+        "b": 0.0,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": 23.0,
+      "y": 283.0,
+      "width": 4.0,
+      "height": 4.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/Frame",
+    "type": "FRAME",
+    "id": "2:237",
+    "bbox": {
+      "x": -569.0,
+      "y": 318.0,
+      "width": 596.0,
+      "height": 140.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/Frame/laptop-illustration",
+    "type": "FRAME",
+    "id": "2:238",
+    "bbox": {
+      "x": -569.0,
+      "y": 318.0,
+      "width": 220.0,
+      "height": 140.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/Frame/laptop-illustration/Rectangle",
+    "type": "RECTANGLE",
+    "id": "2:239",
+    "fill_colors": [
+      {
+        "r": 0.08627451211214066,
+        "g": 0.10588235408067703,
+        "b": 0.14901961386203766,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": -529.0,
+      "y": 328.0,
+      "width": 140.0,
+      "height": 90.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/Frame/laptop-illustration/Polygon",
+    "type": "REGULAR_POLYGON",
+    "id": "2:240",
+    "fill_colors": [
+      {
+        "r": 0.12156862765550613,
+        "g": 0.16078431904315948,
+        "b": 0.21568627655506134,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": -549.0,
+      "y": 413.0,
+      "width": 180.0,
+      "height": 30.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/Frame/laptop-illustration/Ellipse",
+    "type": "ELLIPSE",
+    "id": "2:241",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 0.800000011920929,
+        "b": 0.0,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": -459.0,
+      "y": 358.0,
+      "width": 10.0,
+      "height": 10.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/Frame/laptop-illustration/Ellipse",
+    "type": "ELLIPSE",
+    "id": "2:242",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 0.800000011920929,
+        "b": 0.0,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": -509.0,
+      "y": 420.0,
+      "width": 10.0,
+      "height": 10.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/Frame/laptop-illustration/Ellipse",
+    "type": "ELLIPSE",
+    "id": "2:243",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 0.800000011920929,
+        "b": 0.0,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": -419.0,
+      "y": 420.0,
+      "width": 10.0,
+      "height": 10.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/Frame/Frame",
+    "type": "FRAME",
+    "id": "2:244",
+    "bbox": {
+      "x": -325.0,
+      "y": 321.5,
+      "width": 100.0,
+      "height": 133.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/Frame/Frame/SPECTRUM WHEEL",
+    "type": "TEXT",
+    "id": "2:245",
+    "fill_colors": [
+      {
+        "r": 0.6117647290229797,
+        "g": 0.6392157077789307,
+        "b": 0.686274528503418,
+        "a": 1.0
+      }
+    ],
+    "text": "SPECTRUM WHEEL",
+    "bbox": {
+      "x": -325.0,
+      "y": 321.5,
+      "width": 100.0,
+      "height": 14.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/Frame/Frame/Ellipse",
+    "type": "ELLIPSE",
+    "id": "2:246",
+    "bbox": {
+      "x": -315.0,
+      "y": 347.5,
+      "width": 80.0,
+      "height": 80.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/Frame/Frame/HEX: #00F0FF",
+    "type": "TEXT",
+    "id": "2:247",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 0.800000011920929,
+        "b": 0.0,
+        "a": 1.0
+      }
+    ],
+    "text": "HEX: #00F0FF",
+    "bbox": {
+      "x": -315.0,
+      "y": 439.5,
+      "width": 80.0,
+      "height": 15.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame",
+    "type": "FRAME",
+    "id": "2:248",
+    "fill_colors": [
+      {
+        "r": 0.062745101749897,
+        "g": 0.0784313753247261,
+        "b": 0.11372549086809158,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": 71.0,
+      "y": 248.0,
+      "width": 636.0,
+      "height": 184.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/section-header",
+    "type": "FRAME",
+    "id": "2:249",
+    "bbox": {
+      "x": 91.0,
+      "y": 268.0,
+      "width": 596.0,
+      "height": 34.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/section-header/Frame",
+    "type": "FRAME",
+    "id": "2:250",
+    "bbox": {
+      "x": 91.0,
+      "y": 268.0,
+      "width": 233.0,
+      "height": 34.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/section-header/Frame/Frame",
+    "type": "FRAME",
+    "id": "2:251",
+    "bbox": {
+      "x": 91.0,
+      "y": 268.0,
+      "width": 233.0,
+      "height": 18.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/section-header/Frame/Frame/Frame",
+    "type": "FRAME",
+    "id": "2:252",
+    "bbox": {
+      "x": 91.0,
+      "y": 274.0,
+      "width": 6.0,
+      "height": 6.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/section-header/Frame/Frame/Linked Game Profile Engines",
+    "type": "TEXT",
+    "id": "2:253",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 0.800000011920929,
+        "b": 0.0,
+        "a": 1.0
+      }
+    ],
+    "text": "Linked Game Profile Engines",
+    "bbox": {
+      "x": 105.0,
+      "y": 268.0,
+      "width": 219.0,
+      "height": 18.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/section-header/Frame/Active binds detecting application launchers",
+    "type": "TEXT",
+    "id": "2:254",
+    "fill_colors": [
+      {
+        "r": 0.6117647290229797,
+        "g": 0.6392157077789307,
+        "b": 0.686274528503418,
+        "a": 1.0
+      }
+    ],
+    "text": "Active binds detecting application launchers",
+    "bbox": {
+      "x": 91.0,
+      "y": 288.0,
+      "width": 214.0,
+      "height": 14.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/section-header/Frame",
+    "type": "FRAME",
+    "id": "2:255",
+    "bbox": {
+      "x": 647.0,
+      "y": 283.0,
+      "width": 40.0,
+      "height": 4.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/section-header/Frame/Rectangle",
+    "type": "RECTANGLE",
+    "id": "2:256",
+    "fill_colors": [
+      {
+        "r": 0.12156862765550613,
+        "g": 0.16078431904315948,
+        "b": 0.21568627655506134,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": 647.0,
+      "y": 284.5,
+      "width": 32.0,
+      "height": 1.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/section-header/Frame/Rectangle",
+    "type": "RECTANGLE",
+    "id": "2:257",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 0.800000011920929,
+        "b": 0.0,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": 683.0,
+      "y": 283.0,
+      "width": 4.0,
+      "height": 4.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/Frame",
+    "type": "FRAME",
+    "id": "2:258",
+    "bbox": {
+      "x": 91.0,
+      "y": 318.0,
+      "width": 596.0,
+      "height": 94.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/Frame/Frame",
+    "type": "FRAME",
+    "id": "2:259",
+    "fill_colors": [
+      {
+        "r": 0.08627451211214066,
+        "g": 0.10588235408067703,
+        "b": 0.14901961386203766,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": 91.0,
+      "y": 318.0,
+      "width": 292.0,
+      "height": 94.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/Frame/Frame/Rectangle",
+    "type": "RECTANGLE",
+    "id": "2:260",
+    "image_refs": [
+      "3c1c54d7e9c39555dd5f01539c1742cdad3745ab"
+    ],
+    "bbox": {
+      "x": 103.0,
+      "y": 330.0,
+      "width": 50.0,
+      "height": 70.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/Frame/Frame/Frame",
+    "type": "FRAME",
+    "id": "2:261",
+    "bbox": {
+      "x": 165.0,
+      "y": 330.0,
+      "width": 206.0,
+      "height": 48.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/Frame/Frame/Frame/Cyberpunk 2077",
+    "type": "TEXT",
+    "id": "2:262",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    ],
+    "text": "Cyberpunk 2077",
+    "bbox": {
+      "x": 165.0,
+      "y": 330.0,
+      "width": 97.0,
+      "height": 16.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/Frame/Frame/Frame/Frame",
+    "type": "FRAME",
+    "id": "2:263",
+    "bbox": {
+      "x": 165.0,
+      "y": 352.0,
+      "width": 92.0,
+      "height": 26.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/Frame/Frame/Frame/Frame/OC: EXTREME_BOOST",
+    "type": "TEXT",
+    "id": "2:264",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 0.800000011920929,
+        "b": 0.0,
+        "a": 1.0
+      }
+    ],
+    "text": "OC: EXTREME_BOOST",
+    "bbox": {
+      "x": 165.0,
+      "y": 352.0,
+      "width": 92.0,
+      "height": 12.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/Frame/Frame/Frame/Frame/FX: CYBER_PULSE",
+    "type": "TEXT",
+    "id": "2:265",
+    "fill_colors": [
+      {
+        "r": 0.6117647290229797,
+        "g": 0.6392157077789307,
+        "b": 0.686274528503418,
+        "a": 1.0
+      }
+    ],
+    "text": "FX: CYBER_PULSE",
+    "bbox": {
+      "x": 165.0,
+      "y": 366.0,
+      "width": 81.0,
+      "height": 12.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/Frame/Frame",
+    "type": "FRAME",
+    "id": "2:266",
+    "fill_colors": [
+      {
+        "r": 0.08627451211214066,
+        "g": 0.10588235408067703,
+        "b": 0.14901961386203766,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": 395.0,
+      "y": 318.0,
+      "width": 292.0,
+      "height": 94.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/Frame/Frame/Rectangle",
+    "type": "RECTANGLE",
+    "id": "2:267",
+    "image_refs": [
+      "785227486cd12873e46b25851586ddd65b2191ce"
+    ],
+    "bbox": {
+      "x": 407.0,
+      "y": 330.0,
+      "width": 50.0,
+      "height": 70.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/Frame/Frame/Frame",
+    "type": "FRAME",
+    "id": "2:268",
+    "bbox": {
+      "x": 469.0,
+      "y": 330.0,
+      "width": 206.0,
+      "height": 48.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/Frame/Frame/Frame/Star Citizen",
+    "type": "TEXT",
+    "id": "2:269",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    ],
+    "text": "Star Citizen",
+    "bbox": {
+      "x": 469.0,
+      "y": 330.0,
+      "width": 71.0,
+      "height": 16.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/Frame/Frame/Frame/Frame",
+    "type": "FRAME",
+    "id": "2:270",
+    "bbox": {
+      "x": 469.0,
+      "y": 352.0,
+      "width": 81.0,
+      "height": 26.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/Frame/Frame/Frame/Frame/OC: LOW_THERMAL",
+    "type": "TEXT",
+    "id": "2:271",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 0.800000011920929,
+        "b": 0.0,
+        "a": 1.0
+      }
+    ],
+    "text": "OC: LOW_THERMAL",
+    "bbox": {
+      "x": 469.0,
+      "y": 352.0,
+      "width": 81.0,
+      "height": 12.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/alienfx-row/Frame/Frame/Frame/Frame/Frame/FX: DEEP_SPACE",
+    "type": "TEXT",
+    "id": "2:272",
+    "fill_colors": [
+      {
+        "r": 0.6117647290229797,
+        "g": 0.6392157077789307,
+        "b": 0.686274528503418,
+        "a": 1.0
+      }
+    ],
+    "text": "FX: DEEP_SPACE",
+    "bbox": {
+      "x": 469.0,
+      "y": 366.0,
+      "width": 76.0,
+      "height": 12.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/system-info-footer",
+    "type": "FRAME",
+    "id": "2:273",
+    "fill_colors": [
+      {
+        "r": 0.062745101749897,
+        "g": 0.0784313753247261,
+        "b": 0.11372549086809158,
+        "a": 1.0
+      }
+    ],
+    "bbox": {
+      "x": -589.0,
+      "y": 502.0,
+      "width": 1296.0,
+      "height": 37.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/system-info-footer/SYS: ALIENWARE M16 R2 // OS: WINDOWS 11 PRO BUILD 22631",
+    "type": "TEXT",
+    "id": "2:274",
+    "fill_colors": [
+      {
+        "r": 0.6117647290229797,
+        "g": 0.6392157077789307,
+        "b": 0.686274528503418,
+        "a": 1.0
+      }
+    ],
+    "text": "SYS: ALIENWARE M16 R2 // OS: WINDOWS 11 PRO BUILD 22631",
+    "bbox": {
+      "x": -577.0,
+      "y": 514.0,
+      "width": 330.0,
+      "height": 13.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/system-info-footer/BIOS: v1.8.2 (01/15/2026) // S/N: AW-492F01X88",
+    "type": "TEXT",
+    "id": "2:275",
+    "fill_colors": [
+      {
+        "r": 0.6117647290229797,
+        "g": 0.6392157077789307,
+        "b": 0.686274528503418,
+        "a": 1.0
+      }
+    ],
+    "text": "BIOS: v1.8.2 (01/15/2026) // S/N: AW-492F01X88",
+    "bbox": {
+      "x": 5.0,
+      "y": 514.0,
+      "width": 276.0,
+      "height": 13.0
+    }
+  },
+  {
+    "path": "/Document/Page 1/alienware-command-center/workspace/system-info-footer/FIRMWARE STATUS: UP TO DATE",
+    "type": "TEXT",
+    "id": "2:276",
+    "fill_colors": [
+      {
+        "r": 1.0,
+        "g": 0.800000011920929,
+        "b": 0.0,
+        "a": 1.0
+      }
+    ],
+    "text": "FIRMWARE STATUS: UP TO DATE",
+    "bbox": {
+      "x": 533.0,
+      "y": 514.0,
+      "width": 162.0,
+      "height": 13.0
+    }
+  }
+]
